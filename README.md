@@ -9,7 +9,7 @@ I am Bommidi Gayathri.My main interest lies in Machine Learning and Web Developm
 - 🌱 I’m currently learning ***HTML,Markdown,CSS,Django,Blockchain technology***
 - 👯 I’m looking to collaborate on any ***Web Development project***
 - 🤔 I’m looking for help with any internships to enhance my skills,explore,making connections and to learn new technologies 
-- 💬 Ask me about HTML,Python,HTML,Markdown.
+- 💬 Ask me about HTML,CSS,Python,Markdown.
 - 📫 How to reach me: My linkdln account - www.linkedin.com/in/ or can contact me directly on this mail- bgayathri0606@gmail.com
 - 😄 Pronouns: You can give me one
 - ⚡ Fun fact: A good dancer with average singing skills
