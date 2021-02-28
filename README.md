@@ -12,5 +12,5 @@ I am Bommidi Gayathri. My main interest lies in Machine Learning and Web Develop
 - 💬 Ask me about HTML,CSS,Python,Markdown.
 - 📫 How to reach me: My linkdln account - www.linkedin.com/in/ or can contact me directly on this mail- bgayathri0606@gmail.com
 - 😄 Pronouns: You can give me one
-- ⚡ Fun fact: A good dancer.
+- ⚡ Fun fact: A good dancer :dancer:
 
